@@ -1,2 +1,1 @@
-# Velskor
-CPE101
+# CPE101-สะสมงานวิชา CPE
